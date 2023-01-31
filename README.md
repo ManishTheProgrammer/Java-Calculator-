@@ -18,9 +18,4 @@
 > + [Instagram](https://instagram.com/_manishkumar07_?igshid=YmMyMTA2M2Y=)
 > + [Discord](https://discord.gg/qZA29tWEYq)
 
-`From`
-```
-      eat();
-      sleep();
-      code();
-      repeat();
+`eat();sleep();code();repeat();`
