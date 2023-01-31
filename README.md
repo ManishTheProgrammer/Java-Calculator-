@@ -1,5 +1,5 @@
-# FirstRepository
-## ManishTheProgrammer
+# GitHub
+## [ManishTheProgrammer](https://github.com/ManishTheProgrammer)
 
 ### About Coder
 > - Manish Kumar
@@ -15,5 +15,10 @@
 > Java Programming language is used
 
 ## Contact me
-> [Instagram](https://instagram.com/_manishkumar07_?igshid=YmMyMTA2M2Y=)
-> [Discord](https://discord.gg/qZA29tWEYq)
+> + [Instagram](https://instagram.com/_manishkumar07_?igshid=YmMyMTA2M2Y=)
+> + [Discord](https://discord.gg/qZA29tWEYq)
+
+`From`
+```
+         I N D I A
+```
